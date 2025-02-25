@@ -70,7 +70,9 @@ Research questions:
 Intersection with other topics
 
 *	How could local and indigenous knowledge be integrated with scientific and Western knowledge?
+  
 ## Community guidelines for involvement
+
 ### Collaboration
 Given that the vision [link] is a very ambitious one, a single project could never be large enough to realize it. The idea is therefore to strive for a number of projects and individual activities all working in parallel towards this joint vision. The Venn diagram is meant as an overview, allowing localizing the diverse contributions within the overall effort.
 
